@@ -1,10 +1,9 @@
 streamlit
 pandas
 numpy
+plotly
+streamlit-autorefresh
 scikit-learn
 xgboost
-matplotlib
-seaborn
-plotly
-openpyxl
 shap
+openpyxl
